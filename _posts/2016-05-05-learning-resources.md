@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Resources"
 author: "Paul Le"
-categories: scs
+categories: tybg
 tags: [documentation,sample]
 image: arctic-2.jpg
 ---
