@@ -2,7 +2,7 @@
 layout: post
 title: "Are you?"
 author: "Anthony Ponce"
-categories: tybg
+categories: scs
 tags: [love]
 image: nicepersonareyou.png
 ---
