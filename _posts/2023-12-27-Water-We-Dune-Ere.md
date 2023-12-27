@@ -4,7 +4,7 @@ title: "great guy never met em"
 author: "Anthony Ponce"
 categories: training
 tags: [sample]
-image: arctic-1.jpg
+image: meirl.jpg
 ---
 
 # Markdown Support
