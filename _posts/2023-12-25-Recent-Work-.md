@@ -4,7 +4,7 @@ title: "Recent Work"
 author: "Anthony Ponce"
 categories: folio
 tags: [documentation,sample]
-image: arctic-2.jpg
+image: aaronjones.jpg
 ---
 
 Here is some of the stuff I worked on in 2023.
