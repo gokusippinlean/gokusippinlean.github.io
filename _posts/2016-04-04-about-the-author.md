@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
-categories: facts
-tags: [sample]
+author: "Anthony Ponce"
+categories: blog
+tags: [imissher]
 image: cuba-2.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hello my name is anthony ponce, a mechatronics engineering student who really just wants to be a film student. I like to listen to music like Sade, Aphex Twin and The Cure. Been into collecting cards of all kinds for years just don't ask me about Magic the Gathering or Pokemon, I am more a Yu-gi-oh kind of guy. Sometimes I do location sound for people's projects. I'm kinda nice at Doom (2016), Hotline Miami, and Payday 2 lowkey. Check out [my twitter/x](twitter.com/gokusippinlean) for live action shit posting and a chance to send me a DM telling me I am annoying or need therapy.
