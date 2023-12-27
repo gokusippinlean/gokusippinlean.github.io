@@ -7,16 +7,16 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Thoughts and Feelings',  url: 'blog'}
+- {name: 'Portfolio', url: 'folio'}
+- {name: 'Some Cool Shit',       url: 'tybg'}
+- {name: 'Training',      url: 'stayhard'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/gokusippinlean'}
+- {icon: 'twitter-square', link:    'https://twitter.com/gokusippinlean'}
 - {icon: 'youtube', link:   'http://www.youtube.com/@unclerico2140'}
 - {icon: 'instagram', link:  'https://instagram.com/coachpsa'}
 - {icon: 'envelope', link:   'mailto:a3.ponce@gmail.com'}
