@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Some Cool Shit
-category: scs
-permalink: /scs
+category: tybg
+permalink: /tybg
 ---
