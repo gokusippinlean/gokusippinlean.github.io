@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "D Rose Sneakers"
+title: "It's gotta be the shoes!"
 author: "Anthony Ponce"
 categories: blog
 tags: [basketball]
