@@ -13,8 +13,6 @@ Here is some of the stuff I worked on in 2023.
 
 [Larry Lytle: America, Figuratively Speaking](https://www.santaanacollegeartdepartment.org/lytle)
 
-## Location Sound - Santa Ana Artwalk
-
 [Aaron Jones: Proximity](https://www.santaanacollegeartdepartment.org/proximity_1)
 
 ## Sound Mixer - JJJAD Productions - David's Camp 
