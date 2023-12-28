@@ -1,9 +1,8 @@
-# Change 'comments' to true for Disqus comments
+
 disqus:
   comments: false
   disqus_shortname: 'millennial-3'
-
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
+  
 google-ID: 'UA-112060364-2'
 
 menu:
@@ -14,7 +13,6 @@ menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter-square', link:    'https://twitter.com/gokusippinlean'}
 - {icon: 'youtube', link:   'http://www.youtube.com/@unclerico2140'}
