@@ -4,7 +4,7 @@ title: "Peter's Canyon"
 author: "Anthony Ponce"
 categories: training
 tags: [stay-hard]
-image: 
+image: peterscanyon.jpg
 ---
 
 
