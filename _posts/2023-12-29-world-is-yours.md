@@ -2,7 +2,7 @@
 layout: post
 title: "Say Goodnight to the Bad Guy"
 author: "Anthony Ponce"
-categories: scs
+categories: tybg
 tags: [goat]
 image: tony.jpg
 ---
