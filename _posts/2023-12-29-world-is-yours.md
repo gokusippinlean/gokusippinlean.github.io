@@ -4,7 +4,7 @@ title: "Say Goodnight to the Bad Guy"
 author: "Anthony Ponce"
 categories: tybg
 tags: [goat]
-image: tony.jpg
+image: tony.JPG
 ---
 
 Scarface is my favorite movie. I know it is cliche to say that as a man. And it is basically every drug dealer's one movie they can name you a scene from. Also the go to post for fighters who are about to lose. 
