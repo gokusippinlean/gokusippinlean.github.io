@@ -10,7 +10,7 @@ menu:
 - {name: 'Portfolio', url: 'folio'}
 - {name: 'Some Cool Shit',       url: 'tybg'}
 - {name: 'Training',      url: 'stayhard'}
-- {name: 'About',              url: 'about'}
+- {name: 'About',              url: 'yearningsohardimadeawebsite'}
 - {name: 'Contact',            url: 'contact'}
 
 social:
