@@ -13,7 +13,7 @@ I particularly like when they just take a screen shot of Al Pacino and put some 
 
 Usually something stupid like, 
 
-# If I fuck with you I won't ask about the body just pass me a shovel
+# "If I fuck with you I won't ask about the body just pass me a shovel"
 
 like dude c'mon you are 34 and behind on child support please get your CDL. I am not here to hate on any man but this movie attracts some really lame people to it. 
 
