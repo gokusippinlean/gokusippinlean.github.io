@@ -4,4 +4,35 @@ title: Contact
 permalink: /contact
 ---
 
-If you need to reach me just email me at a3.ponce@gmail.com 
+You can reach me at any of the socials provided at the top right of the website. My email is also available [here](a3.ponce@gmail.com) if you would like. 
+Thank you for visiting my website. I hope you liked it. (:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yearning, I am yearning so hard right now I made a whole website.
