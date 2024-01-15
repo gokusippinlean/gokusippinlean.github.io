@@ -4,7 +4,7 @@ title: "we like sports we don't care who knows"
 author: "Anthony Ponce"
 categories: tybg
 tags: [sports,dad,coach]
-image: maradona .png
+image: maradona.png
 ---
 
 Been a big sports fan my whole life. Growing up I played football and basketball. Only ever played one year of high school basketball though. Didn't like the coach. Lately I have been really liking soccer. Football in other parts of the world. I remember when I was young my family would gamble on the week's games with their coworkers. They were these little like slips of paper the size of a business card and it would have all the games that week and you put your picks in and threw five bucks in with it. 
