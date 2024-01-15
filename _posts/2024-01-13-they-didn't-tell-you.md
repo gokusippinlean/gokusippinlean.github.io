@@ -4,7 +4,7 @@ title: "treated by the owner of the store"
 author: "Anthony Ponce"
 categories: tybg
 tags: [beast,mode]
-image: 
+image: theydidnttellyou.jpg
 ---
 
 I just wanna test out the function to embed a youtube video so I chose a video that me and my boys quote nonstop. 
