@@ -13,7 +13,7 @@ I woke today at about 530am and was contemplating whether or not I should head o
 
 I know that it is only meant to be a recovery run but I felt good and thought about what kind of pace I wanted to set for myself. I eventually settled into a nice little 10:55/mile pace for the majority of the run. 
 
-It was cold to start, the kind of cold that all your fingertips feel like they are being stabbed with pins and needles. Often times when I am out for a run I think of all these grand ideas. Soemtimes it's nothing but my brain telling me how much this fucking sucks. Today though I just felt motivated to get four miles in before my 45 minutes was up. Totally doable, just needed to keep putting one foot in front of the other. 
+It was cold to start, the kind of cold that all your fingertips feel like they are being stabbed with pins and needles. Often times when I am out for a run I think of all these grand ideas. Sometimes it's nothing but my brain telling me how much this fucking sucks. Today though I just felt motivated to get four miles in before my 45 minutes was up. Totally doable, just needed to keep putting one foot in front of the other. 
 
 I tried to cut through some neighborhoods but ended up at a few dead ends a couple of times. Found myself back on I think first street? It may have been fifth I just remember cutting back into the neighbor's and realizing I wasn't far from where Rojo was at. Ran past Irvine Intermediate as well and notice all the little upgrades they got. 
 
