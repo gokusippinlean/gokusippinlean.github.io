@@ -9,7 +9,7 @@ image: terryfox.jpg
 
 # 69 miles into this program, 9 weeks out from my half marathon.
 
-I woke today at about 530am and was contemplating whether or not I should head out in the cold morning air. Eventually at a about 617 I start am standing in my driveway creeping my way into the alley one step at a time. 
+I woke today at about 530am and was contemplating whether or not I should head out in the cold morning air. Eventually at a about 617am, I am standing in my driveway creeping my way into the alley one step at a time. 
 
 I know that it is only meant to be a recovery run but I felt good and thought about what kind of pace I wanted to set for myself. I eventually settled into a nice little 10:55/mile pace for the majority of the run. 
 
