@@ -9,7 +9,7 @@ image:
 
 I just gave my speech inside of public speaking not more than an hour and a half ago. It went well. Sometimes I think about that class and I wonder who is this for? I spoke about how public transportation can help alleviate urban congestion, and help with mental and physical health. 
 
-I wish I was at home playing morrowind. I am getting okay at it and the mechcanics don't piss me off as much anymore. I wish th vendors had more heal potions cause I swear they are so stingy. 
+I wish I was at home playing morrowind. I am getting okay at it and the mechcanics don't piss me off as much anymore. I wish the vendors had more heal potions cause I swear they are so stingy. 
 
 Idgaf what she's doing. 
 
