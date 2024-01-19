@@ -4,7 +4,7 @@ title: "How Informative"
 author: "Anthony Ponce"
 categories: blog
 tags: [public speaking]
-image:
+image: DOOM.png
 ---
 
 I just gave my speech inside of public speaking not more than an hour and a half ago. It went well. Sometimes I think about that class and I wonder who is this for? I spoke about how public transportation can help alleviate urban congestion, and help with mental and physical health. 
