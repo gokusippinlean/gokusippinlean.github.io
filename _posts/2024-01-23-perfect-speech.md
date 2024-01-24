@@ -29,7 +29,11 @@ Unfortunately, this belief seeps into various aspects of my life, casting a shad
 
 At times, it fuels self-doubt, leading me to despise my own reflection and feel inadequate. Every imperfection seems like a deliberate affront.
 
-This sense that the world is on the brink of collapse because things aren't flawless enough can be paralyzing. It becomes a barrier to taking action in areas of life that I genuinely want to pursue. The constant demand for everything to align perfectly before I can proceed becomes an obstacle, hindering progress. It's as if I've set up a series of prerequisites, believing that without them, success is unattainable. Breaking free from this mindset is an ongoing challenge, but I recognize the importance of dismantling these barriers to live a more fulfilling and liberated life.
+This sense that the world is on the brink of collapse because things aren't flawless enough can be paralyzing. It becomes a barrier to taking action in areas of life that I genuinely want to pursue. The constant demand for everything to align perfectly before I can proceed becomes an obstacle, hindering progress. It's as if I've set up a series of prerequisites, believing that without them, success is unattainable. 
+
+What happens when you don't strive for perfection? Well nothing really. The sky doesn't fall. But you set yourself back. Starting over again is difficult because you just think things like if it was meant to be it would've happened already. You're just not perfect enough in this life. All these silly ideas to convince yourself to not even try. I think quitting is harder than trying for this reason.
+
+Breaking free from this mindset is an ongoing challenge, but I recognize the importance of dismantling these barriers to live a more fulfilling and liberated life.
 
 In recent years, I've embarked on a journey to transform this mindset into something more positive. I've embraced the idea of accepting things as they are, not implying a tolerance for complacency, but rather recognizing that giving our best effort is our own version of perfection. By striving to be our best selves each day, we attain a sense of perfection in that moment, acknowledging that progress and effort are key components of personal growth. At this very moment, everything is precisely as it should be, and therein lies its perfection.
 
