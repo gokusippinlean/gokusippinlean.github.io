@@ -7,7 +7,7 @@ tags: [speech]
 image: theperfectslide.jpg
 ---
 
-## “Perfectionism is a delusion that can rob one of a very successful, enriching life if not  careful.” John Wooden
+# “Perfectionism is a delusion that can rob one of a very successful, enriching life if not  careful.” John Wooden
 
 Hello, my name is Anthony Ponce.
 
@@ -33,7 +33,7 @@ This sense that the world is on the brink of collapse because things aren't flaw
 
 In recent years, I've embarked on a journey to transform this mindset into something more positive. I've embraced the idea of accepting things as they are, not implying a tolerance for complacency, but rather recognizing that giving our best effort is our own version of perfection. By striving to be our best selves each day, we attain a sense of perfection in that moment, acknowledging that progress and effort are key components of personal growth. At this very moment, everything is precisely as it should be, and therein lies its perfection.
 
-# "The height of perfection is mediocrity." – Pitigrilli
+## "The height of perfection is mediocrity." – Pitigrilli
 
 This quote invites us to reconsider our traditional notions of perfection. It suggests that true perfection may not lie in an idealized state but rather in embracing the authenticity found in the ordinary and the everyday. Perhaps, in recognizing the beauty of simplicity and acknowledging the imperfect nature of life, we discover a profound sense of perfection that transcends conventional standards.
 
