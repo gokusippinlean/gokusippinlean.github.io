@@ -7,7 +7,7 @@ tags: [him]
 image: joseinternou.jpg
 ---
 
-Man. 
+# Man. 
 
 I got one week left in this intersession. Tomorrow is public speaking, then next week is just the final week before the main semester. I am nervous about it. I don't know how to feel about it all still.
 
@@ -19,4 +19,4 @@ I watched this Jose Mourinho documentary that was shot during his first run at C
 
 The only reason I found myself in that rabbit hole of videos about him was because I saw a clip of him runnning onto the pitch at the Camp Nou celebrating in front of the supporters egregiously and having the Barca goalkeeper run after him and grab him. Personally, you would never see me let someone grab me for that long. It's strange how nobody did anything about it for so long felt like a lifetime before someone pulled the keeper off him. 
 
-If you ask me if you don't like him celebrating then you should have beat him on the pitch, loser.
+## If you ask me if you don't like him celebrating then you should have beat him on the pitch, loser.
