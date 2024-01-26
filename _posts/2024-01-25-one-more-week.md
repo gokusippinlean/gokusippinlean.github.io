@@ -4,7 +4,7 @@ title: "one more week"
 author: "Anthony Ponce"
 categories: tybg
 tags: [him]
-image: joseinternou .jpg
+image: joseinternou.jpg
 ---
 
 Man. 
