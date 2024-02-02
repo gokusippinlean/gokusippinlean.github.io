@@ -4,7 +4,7 @@ title: "intersession over"
 author: "Anthony Ponce"
 categories: blog
 tags: [college]
-image: college .jpg
+image: college.jpg
 ---
 # It's over baby.
 
