@@ -3,7 +3,7 @@ layout: post
 title: "one more week"
 author: "Anthony Ponce"
 categories: tybg
-tags: [him]
+tags: [him, tybg]
 image: joseinternou.jpg
 ---
 
