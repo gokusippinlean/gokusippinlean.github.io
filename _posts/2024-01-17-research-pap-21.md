@@ -3,7 +3,7 @@ layout: post
 title: "fuck a research paper"
 author: "Anthony Ponce"
 categories: blog
-tags: [research]
+tags: [research,blog]
 image: woejak.jpg
 ---
 
