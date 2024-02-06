@@ -3,7 +3,7 @@ layout: post
 title: "About the Author"
 author: "Anthony Ponce"
 categories: about
-tags: [imissher]
+tags: [imissher, love]
 image: perfect.jpg
 ---
 
