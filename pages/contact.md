@@ -1,4 +1,3 @@
-![image](https://github.com/gokusippinlean/gokusippinlean.github.io/assets/152910992/6e7abe76-b5b1-4040-ab59-c31efd1fb19c)---
 layout: page
 title: Contact
 permalink: /contact
