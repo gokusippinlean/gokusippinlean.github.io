@@ -3,7 +3,7 @@ layout: post
 title: "great guy never met em"
 author: "Anthony Ponce"
 categories: training
-tags: [sample]
+tags: [train]
 image: meirl.jpg
 ---
 
