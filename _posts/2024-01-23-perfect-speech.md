@@ -3,7 +3,7 @@ layout: post
 title: "the perfect speech"
 author: "Anthony Ponce"
 categories: folio
-tags: [speech]
+tags: [speech,folio]
 image: theperfectslide.jpg
 ---
 
