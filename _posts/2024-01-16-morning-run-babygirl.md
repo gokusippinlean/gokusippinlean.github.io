@@ -3,7 +3,7 @@ layout: post
 title: "i'm fast as fuck boiii"
 author: "Anthony Ponce"
 categories: training
-tags: [run]
+tags: [run,train]
 image: terryfox.jpg
 ---
 
