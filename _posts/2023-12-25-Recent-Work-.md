@@ -3,7 +3,7 @@ layout: post
 title: "Recent Work"
 author: "Anthony Ponce"
 categories: folio
-tags: [documentation,sample]
+tags: [documentation,sample,folio]
 image: aaronjones.jpg
 ---
 
