@@ -3,7 +3,7 @@ layout: post
 title: "It's gotta be D shoes!"
 author: "Anthony Ponce"
 categories: tybg
-tags: [basketball]
+tags: [basketball, tybg]
 image: mars.jpg
 ---
 
