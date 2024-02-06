@@ -3,7 +3,7 @@ layout: post
 title: "Peter's Canyon"
 author: "Anthony Ponce"
 categories: training
-tags: [stay-hard]
+tags: [stay-hard, train]
 image: peterscanyon.jpg
 ---
 
