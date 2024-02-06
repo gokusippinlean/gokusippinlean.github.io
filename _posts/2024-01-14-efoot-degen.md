@@ -3,7 +3,7 @@ layout: post
 title: "we like sports we don't care who knows"
 author: "Anthony Ponce"
 categories: tybg
-tags: [sports,dad,coach]
+tags: [sports,dad,coach,tybg]
 image: maradona.png
 ---
 
