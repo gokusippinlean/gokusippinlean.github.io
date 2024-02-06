@@ -3,7 +3,7 @@ layout: post
 title: "How Informative"
 author: "Anthony Ponce"
 categories: blog
-tags: [public speaking]
+tags: [public speaking, college]
 image: doom.png
 ---
 
