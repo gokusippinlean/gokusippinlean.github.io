@@ -7,9 +7,9 @@ tags: [documentation,sample,folio]
 image: aaronjones.jpg
 ---
 
-Here is some of the stuff I worked on in 2023.
+# Here is some of the stuff I worked on in 2023.
 
-## Location Sound - Santa Ana Artwalk 
+## Sound Mixer/Boom Operator - Santa Ana Artwalk 
 
 [Larry Lytle: America, Figuratively Speaking](https://www.santaanacollegeartdepartment.org/lytle)
 
