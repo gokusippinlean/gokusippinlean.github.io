@@ -4,7 +4,7 @@ title: "Minor Comeback, Major Setback. Right?"
 author: "Anthony Ponce"
 categories: training
 tags: [stay-hard, train]
-image: jpg
+image: mhkev.jpg
 ---
 
 What's up y'all been a minute. My laptop actually not working right about now so I have been posting way less. I am currently typing this up with my tablet using my keyboard that I didn't expect to actually connect properly. 
