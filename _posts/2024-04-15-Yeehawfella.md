@@ -4,7 +4,7 @@ title: "It's Like That"
 author: "Anthony Ponce"
 categories: blog
 tags: [blog,swag,yeah man]
-image: 
+image: beast.jpeg
 ---
 
 I don't know what I want to say today really. Everton is getting smashed to bits by Cole Palmer and Chelsea to the tune of 5-0 and it is depressing. 
