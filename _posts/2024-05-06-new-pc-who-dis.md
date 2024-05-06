@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brand New PC, just hop in"
+title: "brand new PC, just hopped in"
 author: "Anthony Ponce"
 categories: tybg
 tags: [computer, tybg]
