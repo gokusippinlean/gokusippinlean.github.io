@@ -4,7 +4,7 @@ title: "Serving CRACK"
 author: "Anthony Ponce"
 categories: blog
 tags: [work, blog]
-image: 
+image: wife.jpg
 ---
 
 ## BRAND NEW WHIP, GOT NO KEYS.
