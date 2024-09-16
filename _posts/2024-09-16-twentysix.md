@@ -4,7 +4,7 @@ title: "life's a bitch"
 author: "Anthony Ponce"
 categories: blog
 tags: [hatred,blog]
-image: 
+image: bezos.png
 ---
 
 Life's a bitch and then you die. That's why we puff loud cause you never know when you're gonna go.
