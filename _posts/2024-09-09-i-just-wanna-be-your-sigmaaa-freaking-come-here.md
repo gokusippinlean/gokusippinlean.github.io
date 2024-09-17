@@ -4,7 +4,7 @@ title: "chem"
 author: "Anthony Ponce"
 categories: blog
 tags: [blog]
-image: DRAGON BALL Z_ KAKAROT-2022_01_15-18_26_05.png
+image: 
 ---
 
 # I feel like Pablo when I'm
