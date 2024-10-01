@@ -14,7 +14,7 @@ menu:
 - {name: 'Contact',            url: 'contact'}
 
 social:
-- {icon: 'fa-brands fa-bluesky', link:    'https://bsky.app/profile/gokusippinlean.bsky.social'}
+- {icon: 'joint', link:    'https://bsky.app/profile/gokusippinlean.bsky.social'}
 - {icon: 'youtube', link:   'http://www.youtube.com/@unclerico2140'}
 - {icon: 'instagram', link:  'https://instagram.com/coachpsa'}
 - {icon: 'envelope', link:   'mailto:a3.ponce@gmail.com'}
