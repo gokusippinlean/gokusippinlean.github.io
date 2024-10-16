@@ -4,7 +4,7 @@ title: "Air Force"
 author: "Anthony Ponce"
 categories: blog
 tags: [blog, life]
-image: 
+image: isthatyou.jpg 
 ---
 
 I need to get the fuck outta this house and experience someething new. I think it's time I join the Air Force. For far too long I have flip flopped on my decision and now I am a whole 4 months removed from when I had told myself I wanted to be shipping out by. 
