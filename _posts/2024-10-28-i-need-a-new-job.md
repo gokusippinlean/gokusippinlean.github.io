@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Please get me out of this hellhole"
+author: "Anthony Ponce"
+categories: blog
+tags: [blog,pain, college, work]
+image: 
+---
+
+
 I am over here mass applying to all kinds of technician jobs trying to get my foot in the door somewhere and it is what it is. 
 
 I am barely getting any freaking hours at J.Crew and it's getting exhausting to get like a freaking half shift every week and going home knowing I'm making next to nothing. Sure the hourly rate is better than BOOKOFF ever was but I am not getting BOOKOFF hours bro. 
