@@ -4,7 +4,7 @@ title: "Please get me out of this hellhole"
 author: "Anthony Ponce"
 categories: blog
 tags: [blog,pain, college, work]
-image: 
+image: pain.jpeg
 ---
 
 
