@@ -19,6 +19,6 @@ My daily life been in a slump, got 3 days this week coming up at J. Crew like th
 
 I need a better job ffs. 
 
-##IDGAF WHAT SHE'S DOING
+## IDGAF WHAT SHE'S DOING
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5IMQuPtSa5MG7JpnMfrcmG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
