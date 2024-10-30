@@ -3,8 +3,8 @@ layout: post
 title: "payne's valley"
 author: "Anthony Ponce"
 categories: blog
-tags: [collegge,golf]
-image: 
+tags: [college,golf]
+image: wallahi.jpeg
 ---
 
 Seems like Rojo is gonna try and take some classes at SAC as well aside from Isaac and that's honestly exciting. I hope he sticks with it. All my homies should be going for it. We aren't getting any younger. 
