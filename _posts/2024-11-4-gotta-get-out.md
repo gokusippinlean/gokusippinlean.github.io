@@ -25,7 +25,7 @@ I mean don't get me wrong I got some decent shit going on and all that but I fee
 
 Over the course of this year I managed to lose some friends. Lot of them really. At this age you don't get many new ones these days.
 
-26. 
+26 years old.
 
 I keep thinking about how when I was 16 I would've probably told you I want to be on my own at this point and how I feel like I would be a few years into my career. 
 
