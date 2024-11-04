@@ -4,7 +4,7 @@ title: "Just lemme pass the damn piss test already"
 author: "Anthony Ponce"
 categories: blog
 tags: [air force, blog]
-image: 
+image: stolemyflow.jpg
 ---
 
 I got some nice clothes from work the other day. Felt nice to look nice. 
