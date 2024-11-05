@@ -23,7 +23,9 @@ How fucking lame I know I would've already been in or out of tech school by this
 
 I mean don't get me wrong I got some decent shit going on and all that but I feel like I fell behind when i could've already been where I want to be.
 
-Over the course of this year I managed to lose some friends. Lot of them really. At this age you don't get many new ones these days.
+Over the course of this year I managed to lose some friends. Lot of them really. At this age you don't get many new ones these days. 
+
+I don't wish ill will onto any of my former friends. The opposite really. I want them to strive and find all the joy they wwant out of life irregardless of I am in it.
 
 26 years old.
 
