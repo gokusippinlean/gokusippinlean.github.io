@@ -7,7 +7,7 @@ tags: [college,bullshit]
 image: methods.jpg 
 ---
 
-You ever feel like you are in a different place than you're supposed to be. Like somehow you failed to do what you were really meant to do? I am pretty depressed at this idea right now. I was supposed to be doing a million different things least that's how I used to see things. Now I am here just switching majors every couple months with some hope that it fixes whatever I think is wrong with me. Should I go back to film classes? I still have this urge to create inside of myself. 
+You ever feel like you are in a different place than you're supposed to be? Like somehow you failed to do what you were really meant to do? I am pretty depressed at this idea right now. I was supposed to be doing a million different things least that's how I used to see things. Now I am here just switching majors every couple months with some hope that it fixes whatever I think is wrong with me. Should I go back to film classes? I still have this urge to create inside of myself. 
 I just registered for the intro to screenwriting course at SAC. Maybe that will satisfy the urge I have to return to a creative field. 
 
 I feel stuck and tired and depressed. 
