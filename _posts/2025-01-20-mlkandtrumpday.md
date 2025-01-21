@@ -4,7 +4,7 @@ title: "interview tmrw"
 author: "Anthony Ponce"
 categories: blog
 tags: [job, blog]
-image: 
+image: elliot.png
 ---
 
 I got an interview at Hoka tomorrow. I am pretty nervous about it. Feels nice to have a chance at a new gig.
