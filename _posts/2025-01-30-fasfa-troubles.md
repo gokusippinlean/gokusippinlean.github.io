@@ -4,7 +4,7 @@ title: "Who is the FASFA CEO?"
 author: "Anthony Ponce"
 categories: blog
 tags: [blog , college]
-image: 
+image: him.png
 ---
 So what I thought was going to be a late payment for my money from FAFSA is probably not going to come at all. I called them earlier today after doing my 10000 steps in the morning and just asked for clarification as to why I only received about $2000. 
 It turns out they only freaking approved 7 out of my 12 credits last semester which is crazy because that would mean that they only approved chemistry and that other class I needed for transfer which is like career planning or some shit or problem solving or whatever the hell it was and it's a fake class they make up so you have to take it to be able to transfer. 
