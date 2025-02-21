@@ -20,3 +20,5 @@ I feel like it won't arrive on Sunday and they are just bullshitting me.
 My end goal for the year is start working with AMEX on a credit line. I am eyeing the Gold card or the Blue everyday card. Once I do that I think I'll say goodbye to some less desireable cards in my wallet. 
 
 Cheers, hope you are all doing well.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2C3QwVE5adFCVsCqayhPW7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
