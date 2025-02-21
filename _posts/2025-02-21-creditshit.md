@@ -4,7 +4,7 @@ title: "692 credit score"
 author: "Anthony Ponce"
 categories: tybg
 tags: [him, tybg]
-image: 
+image: hrjak.jpg
 ---
 
 I have been working at rebuilding my credit pretty heavily this past month. I got it up quite a bit and I am sitting at a 692 on Transunion which is miles better than my former standing. 
