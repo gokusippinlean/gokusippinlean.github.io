@@ -4,7 +4,7 @@ title: "It's getting old"
 author: "Anthony Ponce"
 categories: blog
 tags: [blog, tired, work]
-image: 
+image: dafoe.jpg
 ---
 
 It is just getting old man. Working and existing in this space as a retail worker can get pretty tiresome really fast and I know I am not heaven's special little human who is exempted from working but give me grace and let me feel burnt out a little. It feels like I am spinning my wheels somedays and I am still anticipating my correction in wages to be settle since it has been more than 2 pay periods and this one will come to a close tomorrow night. 
