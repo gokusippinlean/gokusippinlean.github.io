@@ -4,7 +4,7 @@ title: "funny couple fellas"
 author: "Anthony Ponce"
 categories: blog
 tags: [blog , happy]
-image: 
+image: bike.jpeg
 ---
 
 She fill my mind up with ideas. OOOOOOooOOOoOOO. I cannot believe that first pod got over 400 views dude. I am so stoked. And I even got a couple subscribers from it too and some nice comments. I did get one dislike which I am suprised we don't have more tbh. Anyways dude I am just really excited.
