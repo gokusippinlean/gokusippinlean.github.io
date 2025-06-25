@@ -4,7 +4,7 @@ title: "you wasn't with me shooting in the gym"
 author: "Anthony Ponce"
 categories: blog
 tags: [job, blog]
-image: Screenshot 2025-06-17 201146.png
+image: ce8.png
 ---
 episode 4 about to go live go fuck with me 
 
