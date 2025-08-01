@@ -4,7 +4,7 @@ title: "baseball bum"
 author: "Anthony Ponce"
 categories: blog
 tags: [blog, feelings]
-image: 
+image: 1e0.jpg
 ---
 Hey what's up. Been a while since I thrown an update here. 
 I been in a bad spot I guess. Just haven't felt like writing lately you know. 
