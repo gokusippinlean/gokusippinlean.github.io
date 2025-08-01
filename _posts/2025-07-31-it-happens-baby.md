@@ -39,3 +39,5 @@ I love you all.
 yours truly,
 
 anthony ponce aka berger picard :)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=t38McQS_0XPJ76Ut&amp;list=PLhQruuNj8kDEGtFIKjzkBVhTCc0UCISP3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
