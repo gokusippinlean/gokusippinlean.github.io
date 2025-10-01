@@ -4,7 +4,7 @@ title: "pabst light is my favorite"
 author: "Anthony Ponce"
 categories: tybg
 tags: [tybg]
-image: DSCN0343.jpg
+image: 
 ---
 i am quite fond of pabst light
 
