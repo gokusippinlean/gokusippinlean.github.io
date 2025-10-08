@@ -4,7 +4,7 @@ title: "AI diggin in ya twin"
 author: "Anthony Ponce"
 categories: blog
 tags: [blog,fuck ai, swag]
-image: 
+image: kyciliazabi.png
 ---
 
 when the fuck did everyone become okay with their devices not coming with all the inputs and shit? 
