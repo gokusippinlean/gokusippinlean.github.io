@@ -1,6 +1,17 @@
+---
+layout: post
+title: "AI diggin in ya twin"
+author: "Anthony Ponce"
+categories: blog
+tags: [blog,fuck ai, swag]
+image: 
+---
+
 when the fuck did everyone become okay with their devices not coming with all the inputs and shit? 
 
-fuck steve jobs that lying dickhead ought to be brought back and killed again, why on earth wouldn't my computer come with a card reader? why wouldn't it have the ability to hot swap a battery? why can't I add more memory after the fact? fuck you I am sick of the fucking cattle of the population enshittifing everything. Now we got ai slop a bunch of absolute horseshit filled the brim with copyright infringement and talentless fuck creating even more slop that is only further going to damage our population. 
+fuck steve jobs that lying dickhead ought to be brought back and killed again, why on earth wouldn't my computer come with a card reader? why wouldn't it have the ability to hot swap a battery? why can't I add more memory after the fact? fuck you I am sick of the fucking cattle of the population enshittifing everything.
+
+Now we got ai slop a bunch of absolute horseshit filled the brim with copyright infringement and talentless fuck creating even more slop that is only further going to damage our population. 
 
 I really hate to sound super reddit but yeah man idiocracy is really turning into a documentary the further out we are from it's debut.
 
