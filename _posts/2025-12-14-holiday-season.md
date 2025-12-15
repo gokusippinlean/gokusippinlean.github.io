@@ -4,7 +4,7 @@ title: "Finals Week"
 author: "Anthony Ponce"
 categories: blog
 tags: [college]
-image:
+image: saints.jpg
 ---
 
 What's going on?
