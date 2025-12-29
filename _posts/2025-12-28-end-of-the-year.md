@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life is hard but I am, well maybe I am stronger I am not sure yet."
+title: "Life is hard but I am, well maybe I am stronger, I am not sure yet."
 author: "Anthony Ponce"
 categories: blog
 tags: [basketball, tybg]
