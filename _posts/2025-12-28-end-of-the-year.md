@@ -4,7 +4,7 @@ title: "Life is hard but I am, well maybe I am stronger I am not sure yet."
 author: "Anthony Ponce"
 categories: blog
 tags: [basketball, tybg]
-image: 
+image: stuff.png
 ---
 
 I used to obsess over the point of it all. I wanted to finally be hit with this answer as to what it meant to be alive and to be on this planet. 
