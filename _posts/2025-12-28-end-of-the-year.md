@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Life is hard but I am, well maybe I am stronger I am not sure yet."
+author: "Anthony Ponce"
+categories: blog
+tags: [basketball, tybg]
+image: 
+---
+
 I used to obsess over the point of it all. I wanted to finally be hit with this answer as to what it meant to be alive and to be on this planet. 
 I am far more blessed and fortunate than many of my peers here on Earth and even just amongst my fellow countrymen but why is that I felt a sense of being robbed of a life full of some kind of grand sequence of events? 
 Movies and entertainment to be hard to get into for this reason. 
