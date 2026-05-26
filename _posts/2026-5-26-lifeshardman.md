@@ -1,11 +1,12 @@
------------------------------
+---
 layout: post
 title: "let's try quitting again"
 author: "Anthony Ponce"
 categories: blog
 tags: [pain, sober]
 image: cruzazul2026.jpg
----------------------------
+---
+
 
 I am on day 0 of trying to quit the pen again. 
 
