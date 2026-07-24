@@ -15,4 +15,10 @@ Been watching Texas Chainsaw Massacre a ton. Just the original one. I think it's
 
 You ain't nothing but a cook.
 
-Oh and I am 3 days away from being sober for 2 months now. Pissing clean at well.
+Oh and I am 3 days away from being sober for 2 months now. Don't even miss it. NOt even a little
+
+Been drinking a little more though I can't lie.
+
+Anyways check out the latest episode of our podcast.
+
+<iframe width="1285" height="723" src="https://www.youtube.com/embed/j719ICiGuUI" title="it&#39;s just like the day i met you" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
