@@ -14,3 +14,5 @@ Still working part time over at the mall too. It's been a sluggish bore. Custome
 Been watching Texas Chainsaw Massacre a ton. Just the original one. I think it's really well made. Leatherface was always some crazy guy to me when I was a kid and he still is in many ways but it is a lot more obvious that he was just some guy with disabilites that was placed in a crazy ass family. 
 
 You ain't nothing but a cook.
+
+Oh and I am 3 days away from being sober for 2 months now. Pissing clean at well.
