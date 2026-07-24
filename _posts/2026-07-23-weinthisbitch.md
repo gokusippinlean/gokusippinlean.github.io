@@ -3,7 +3,7 @@ title: "new chapters"
 author: "Anthony Ponce"
 categories: blog
 tags: [job, blog]
-image: 
+image: leatherface.jpg
 
 Starting a new gig alongside the Santa Ana Unified School District as a Behavior Technician. Also starting a new semester at WGU for a BA in Elementary Education. I just wanna do that and get my TESL to beccome a teacher aboard or some shit and escape this rat race in the USA. 
 
