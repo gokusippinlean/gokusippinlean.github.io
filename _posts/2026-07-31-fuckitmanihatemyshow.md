@@ -4,7 +4,7 @@ title: "who are you people"
 author: "Anthony Ponce"
 categories: blog
 tags: [blog, podcast]
-image: 
+image: whoareyouppl.jpg
 ---
 
 
