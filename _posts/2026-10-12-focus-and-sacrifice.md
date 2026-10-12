@@ -4,7 +4,7 @@ title: "focus"
 author: "Anthony Ponce"
 categories: tybg
 tags: [one life, one chance, tybg]
-image: 
+image: crumb.jpg
 ---
 
 Hello everyone, it is 6:23 AM 10/12/2026. Yesterday at this time I was barely going to bed. Today I am up and fully rested at this same time.
