@@ -4,7 +4,7 @@ title: "downtrodden"
 author: "Anthony Ponce"
 categories: blog
 tags: [no hope]
-image:
+image: Vegas.jpg
 ---
 
 Hi, my name is Anthony Giovannic Ponce and I am depressed. 
