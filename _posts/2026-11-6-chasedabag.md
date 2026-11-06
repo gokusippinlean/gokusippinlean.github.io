@@ -7,7 +7,7 @@ tags: [banking, tybg]
 image: budfox.jpg
 ---
 
-I got a job offer from JPMorgan Chase yesterday November 5th 2026 at 3:03 PM. I didn't see it until about 3:30 or so. I was in the John Adams Elementary library. The students were rehearsing for the Jungle Book musical performance they are practicing for.
+I got a job offer from JPMorgan Chase yesterday November 5th 2026 at 3:03 PM. I didn't see it until about 3:30 or so. I was in the John Adams Elementary library. The students were rehearsing for The Jungle Book musical performance they are practicing for.
 
 The room felt like it was spinning and my head was ready to explode out of pure emotions. The feeling of excitement, disbelief and gratitude was incredible. In my hands was a golden ticket into a new career that I never could've imagined. The world of banking, and not just any bank but Chase. This was monumental for me.
 
