@@ -39,7 +39,9 @@ Do you still think about me sometimes? I think about us a lot. It's been 5 years
 
 It can never be put back together. Better to have loved and lost than never loved at all right? I'm not so sure anymore. This pain won't go away.
 
-The thoughts of suicide idealation have come back very strong. There is a part of me that wants to have someone else hold them away from me but I know that I could follow through anyway. There is always my dreams I can look forward to where sometimes just for a little we are together again. Until my conscious takes away my peace and jolts me into this life I've made for myself.
+The thoughts of suicide idealation have come back very strong. There is a part of me that wants to have someone else hold my firearms away from me but I know that I could never follow through anyway. 
+
+There is always my dreams I can look forward to where sometimes just for a little we are together again. Until my conscious takes away my peace and jolts me into this life I've made for myself.
 
 I don't think I can fall in love again. It was too perfect.
 
